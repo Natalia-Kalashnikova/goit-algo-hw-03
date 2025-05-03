@@ -1,5 +1,5 @@
 # Task 01
-### Create a function get_days_from_today(date) that calculates the number of days between a given ###date and the current date.
+### Create a function get_days_from_today(date) that calculates the number of days between a given date and the current date.
 
 # Task 02
 ### To win the main prize of the lottery, it is necessary to match several numbers on the lottery ticket with numbers that fell out randomly and in a certain range during the next draw. For example, you need to guess six numbers from 1 to 49 or five numbers from 1 to 36, etc.
